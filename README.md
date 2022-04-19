@@ -1,4 +1,4 @@
-# nearby_wifi_tool
+## Nearby Wifi Checking Flutter
 
 A new Flutter project.
 
